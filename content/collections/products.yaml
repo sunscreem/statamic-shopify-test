@@ -1,0 +1,10 @@
+title: Products
+template: product
+taxonomies:
+  - type
+  - tags
+  - vendor
+  - collections
+revisions: false
+route: '/products/{slug}'
+date: true

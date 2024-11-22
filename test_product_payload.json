@@ -1,0 +1,194 @@
+{
+	"admin_graphql_api_id": "gid://shopify/Product/9648212541788",
+	"body_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>\n<p><strong>This is bold</strong>. This is <a href=\"https://google.com\" rel=\"noopener\" target=\"_blank\">a link</a>.</p>",
+	"created_at": "2024-10-20T16:31:04+01:00",
+	"handle": "just-a-test-product",
+	"id": 9648212541788,
+	"product_type": "Mens",
+	"published_at": null,
+	"template_suffix": "",
+	"title": "Just a test product",
+	"updated_at": "2024-11-20T11:16:41+00:00",
+	"vendor": "Giftshop",
+	"status": "draft",
+	"published_scope": "web",
+	"tags": "test",
+	"variants": [
+		{
+			"admin_graphql_api_id": "gid://shopify/ProductVariant/49575433306460",
+			"barcode": "",
+			"compare_at_price": null,
+			"created_at": "2024-10-20T16:32:04+01:00",
+			"id": 49575433306460,
+			"inventory_policy": "deny",
+			"position": 3,
+			"price": "123.00",
+			"product_id": 9648212541788,
+			"sku": "",
+			"taxable": true,
+			"title": "Gray / Corduroy",
+			"updated_at": "2024-10-21T14:23:37+01:00",
+			"option1": "Gray",
+			"option2": "Corduroy",
+			"option3": null,
+			"image_id": null,
+			"inventory_item_id": 51549892608348,
+			"inventory_quantity": 0,
+			"old_inventory_quantity": 0
+		},
+		{
+			"admin_graphql_api_id": "gid://shopify/ProductVariant/49575433339228",
+			"barcode": "",
+			"compare_at_price": null,
+			"created_at": "2024-10-20T16:32:04+01:00",
+			"id": 49575433339228,
+			"inventory_policy": "deny",
+			"position": 4,
+			"price": "123.00",
+			"product_id": 9648212541788,
+			"sku": "",
+			"taxable": true,
+			"title": "Gray / Bamboo",
+			"updated_at": "2024-10-21T14:23:37+01:00",
+			"option1": "Gray",
+			"option2": "Bamboo",
+			"option3": null,
+			"image_id": null,
+			"inventory_item_id": 51549892641116,
+			"inventory_quantity": 0,
+			"old_inventory_quantity": 0
+		},
+		{
+			"admin_graphql_api_id": "gid://shopify/ProductVariant/49575433371996",
+			"barcode": "",
+			"compare_at_price": null,
+			"created_at": "2024-10-20T16:32:04+01:00",
+			"id": 49575433371996,
+			"inventory_policy": "deny",
+			"position": 5,
+			"price": "123.00",
+			"product_id": 9648212541788,
+			"sku": "",
+			"taxable": true,
+			"title": "Bronze / Corduroy",
+			"updated_at": "2024-10-21T14:23:37+01:00",
+			"option1": "Bronze",
+			"option2": "Corduroy",
+			"option3": null,
+			"image_id": null,
+			"inventory_item_id": 51549892673884,
+			"inventory_quantity": 0,
+			"old_inventory_quantity": 0
+		},
+		{
+			"admin_graphql_api_id": "gid://shopify/ProductVariant/49575433404764",
+			"barcode": "",
+			"compare_at_price": null,
+			"created_at": "2024-10-20T16:32:04+01:00",
+			"id": 49575433404764,
+			"inventory_policy": "deny",
+			"position": 6,
+			"price": "123.00",
+			"product_id": 9648212541788,
+			"sku": "",
+			"taxable": true,
+			"title": "Bronze / Bamboo",
+			"updated_at": "2024-10-21T14:23:37+01:00",
+			"option1": "Bronze",
+			"option2": "Bamboo",
+			"option3": null,
+			"image_id": null,
+			"inventory_item_id": 51549892706652,
+			"inventory_quantity": 0,
+			"old_inventory_quantity": 0
+		}
+	],
+	"options": [
+		{
+			"name": "Color",
+			"id": 12112382296412,
+			"product_id": 9648212541788,
+			"position": 1,
+			"values": ["Gray", "Bronze"]
+		},
+		{
+			"name": "Fabric",
+			"id": 12112382329180,
+			"product_id": 9648212541788,
+			"position": 2,
+			"values": ["Corduroy", "Bamboo"]
+		}
+	],
+	"images": [
+		{
+			"id": 56052353106268,
+			"product_id": 9648212541788,
+			"position": 1,
+			"created_at": "2024-10-20T16:30:10+01:00",
+			"updated_at": "2024-10-20T16:31:04+01:00",
+			"alt": null,
+			"width": 1500,
+			"height": 1500,
+			"src": "https://cdn.shopify.com/s/files/1/0862/8361/6604/files/gray.jpg?v=1729438213",
+			"variant_ids": [],
+			"admin_graphql_api_id": "gid://shopify/ProductImage/56052353106268"
+		}
+	],
+	"image": {
+		"id": 56052353106268,
+		"product_id": 9648212541788,
+		"position": 1,
+		"created_at": "2024-10-20T16:30:10+01:00",
+		"updated_at": "2024-10-20T16:31:04+01:00",
+		"alt": null,
+		"width": 1500,
+		"height": 1500,
+		"src": "https://cdn.shopify.com/s/files/1/0862/8361/6604/files/gray.jpg?v=1729438213",
+		"variant_ids": [],
+		"admin_graphql_api_id": "gid://shopify/ProductImage/56052353106268"
+	},
+	"media": [
+		{
+			"id": 51230640734556,
+			"product_id": 9648212541788,
+			"position": null,
+			"created_at": "2024-10-20T16:30:10+01:00",
+			"updated_at": "2024-10-20T16:31:04+01:00",
+			"alt": null,
+			"status": "READY",
+			"media_content_type": "IMAGE",
+			"preview_image": {
+				"width": 1500,
+				"height": 1500,
+				"src": "https://cdn.shopify.com/s/files/1/0862/8361/6604/files/gray.jpg?v=1729438213",
+				"status": "READY"
+			},
+			"variant_ids": [],
+			"admin_graphql_api_id": "gid://shopify/MediaImage/51230640734556"
+		}
+	],
+	"variant_gids": [
+		{
+			"admin_graphql_api_id": "gid://shopify/ProductVariant/49575433306460",
+			"updated_at": "2024-10-21T13:23:37.000Z"
+		},
+		{
+			"admin_graphql_api_id": "gid://shopify/ProductVariant/49575433339228",
+			"updated_at": "2024-10-21T13:23:37.000Z"
+		},
+		{
+			"admin_graphql_api_id": "gid://shopify/ProductVariant/49575433371996",
+			"updated_at": "2024-10-21T13:23:37.000Z"
+		},
+		{
+			"admin_graphql_api_id": "gid://shopify/ProductVariant/49575433404764",
+			"updated_at": "2024-10-21T13:23:37.000Z"
+		}
+	],
+	"has_variants_that_requires_components": false,
+	"category": {
+		"admin_graphql_api_id": "gid://shopify/TaxonomyCategory/aa-2-14-8",
+		"name": "Headbands",
+		"full_name": "Apparel & Accessories > Clothing Accessories > Hair Accessories > Headbands"
+	}
+}
