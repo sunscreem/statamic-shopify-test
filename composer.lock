@@ -4588,16 +4588,16 @@
         },
         {
             "name": "statamic-rad-pack/shopify",
-            "version": "v5.0.3",
+            "version": "v5.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/statamic-rad-pack/shopify.git",
-                "reference": "facd6cc13d43e95ccbbcda2246c1b766248787ef"
+                "reference": "3865d6413a284c5293cda0c98f9c1df44a317b79"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/statamic-rad-pack/shopify/zipball/facd6cc13d43e95ccbbcda2246c1b766248787ef",
-                "reference": "facd6cc13d43e95ccbbcda2246c1b766248787ef",
+                "url": "https://api.github.com/repos/statamic-rad-pack/shopify/zipball/3865d6413a284c5293cda0c98f9c1df44a317b79",
+                "reference": "3865d6413a284c5293cda0c98f9c1df44a317b79",
                 "shasum": ""
             },
             "require": {
@@ -4615,18 +4615,18 @@
             },
             "type": "library",
             "extra": {
-                "download-dist": {
-                    "path": "dist",
-                    "url": "https://github.com/statamic-rad-pack/shopify/releases/download/{$version}/dist.tar.gz"
-                },
                 "laravel": {
                     "providers": [
                         "StatamicRadPack\\Shopify\\ServiceProvider"
                     ]
                 },
                 "statamic": {
-                    "description": "Shopify Addon for Statamic",
-                    "name": "Shopify"
+                    "name": "Shopify",
+                    "description": "Shopify Addon for Statamic"
+                },
+                "download-dist": {
+                    "url": "https://github.com/statamic-rad-pack/shopify/releases/download/{$version}/dist.tar.gz",
+                    "path": "dist"
                 }
             },
             "autoload": {
@@ -4649,9 +4649,9 @@
             "description": "A Shopify Addon for Statamic",
             "support": {
                 "issues": "https://github.com/statamic-rad-pack/shopify/issues",
-                "source": "https://github.com/statamic-rad-pack/shopify/tree/v5.0.3"
+                "source": "https://github.com/statamic-rad-pack/shopify/tree/v5.0.4"
             },
-            "time": "2024-11-22T10:16:41+00:00"
+            "time": "2024-11-28T14:58:06+00:00"
         },
         {
             "name": "statamic/cms",

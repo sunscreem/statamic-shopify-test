@@ -37,6 +37,14 @@ return [
             'throw' => false,
         ],
 
+
+        'shopify' => [
+            'driver' => 'local',
+            'root' => storage_path('app/private'),
+            'serve' => true,
+            'throw' => false,
+        ],
+
         'public' => [
             'driver' => 'local',
             'root' => storage_path('app/public'),
@@ -65,6 +73,8 @@ return [
             'visibility' => 'public',
             'throw' => false,
         ],
+
+
 
     ],
 
