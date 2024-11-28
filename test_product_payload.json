@@ -10,7 +10,7 @@
 	"title": "Just a test product",
 	"updated_at": "2024-11-20T11:16:41+00:00",
 	"vendor": "Giftshop",
-	"status": "active",
+	"status": "draft",
 	"published_scope": "web",
 	"tags": "test",
 	"variants": [
